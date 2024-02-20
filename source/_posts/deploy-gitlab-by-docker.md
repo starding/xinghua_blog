@@ -1,6 +1,6 @@
 ---
 title: docker 部署 gitlab
-date: 2024-01-07 20:05:10
+date: 2016-01-07 08:27:22
 tags:
 ---
 
@@ -153,3 +153,5 @@ gitlab_shell_ssh_port = 2222
 
 然后重新启动 docker 容器，就可以在 web 界面中看到相应的 ssh 地址发生了改变：
 ssh://git@git.xiaohuruwei.com:2222/root/test.git 然后就直接可以继续使用 git clone 来继续操作了
+
+2016.01 于北京回龙观
