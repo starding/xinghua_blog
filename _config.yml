@@ -96,6 +96,18 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+
+## Sitemap plugins
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  # template: ./sitemap_template.xml
+  # template_txt: ./sitemap_template.txt
+  rel: false
+  tags: true
+  categories: true
+
 ## theme: landscape
 theme: hexo_theme_xman
 feed:
