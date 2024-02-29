@@ -109,11 +109,17 @@ sitemap:
   categories: true
 
 ## theme: landscape
-theme: hexo_theme_xman
+theme: hexo-theme-xman
+
+# RSS
 feed:
   enable: true
-  type: atom
-  path: atom.xml
+  type: 
+   - atom
+   - rss2
+  path: 
+   - atom.xml
+   - rss2.xml
   order_by: -date
   icon: white_logo_yao.png
   autodiscovery: true
