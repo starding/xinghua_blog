@@ -1,5 +1,6 @@
 ---
 title: 缘起
+og_title: 缘起
 date: 2016-01-05 00:10:46
 category: 随笔
 lang: zh-CN

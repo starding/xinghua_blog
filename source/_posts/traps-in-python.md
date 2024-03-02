@@ -1,5 +1,6 @@
 ---
 title: 那些年我在 python 中扑过的街
+og_title: 那些年我在 python 中扑过的街
 date: 2016-01-10 23:03:01
 category: 作为工程师
 ---

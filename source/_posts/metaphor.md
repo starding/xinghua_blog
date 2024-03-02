@@ -1,5 +1,6 @@
 ---
 title: 隐喻
+og_title: 隐喻
 date: 2016-02-26 10:13:33
 category: 随笔
 ---

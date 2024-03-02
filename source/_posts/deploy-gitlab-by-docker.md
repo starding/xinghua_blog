@@ -1,5 +1,6 @@
 ---
 title: docker 部署 gitlab
+og_title: docker 部署 gitlab
 date: 2016-01-07 08:27:22
 tags:
 ---

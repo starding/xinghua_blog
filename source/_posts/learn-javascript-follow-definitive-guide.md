@@ -1,5 +1,6 @@
 ---
 title: javascript 犀牛书（第六版）
+og_title: javascript 犀牛书（第六版）
 date: 2016-01-19 13:01:58
 category: 作为工程师
 ---

@@ -1,5 +1,6 @@
 ---
 title: docker-gitlab 数据迁移
+og_title: docker-gitlab 数据迁移
 date: 2016-01-18 09:22:59
 category: 作为工程师
 ---

@@ -1,5 +1,6 @@
 ---
 title: 使用 daocloud 持续集成应用
+og_title: 使用 daocloud 持续集成应用
 date: 2016-01-07 07:24:25
 category: 作为工程师
 ---

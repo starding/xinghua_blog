@@ -1,5 +1,6 @@
 ---
 title: material design 简介及背后的理论
+og_title: material design 简介及背后的理论
 date: 2016-10-31 17:04:37
 category: 作为工程师
 ---
