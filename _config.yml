@@ -8,8 +8,8 @@ subtitle: '临渊羡鱼，不如退而结网'
 description: '这是兴华的独立博客，主要内容是投资、计算机、科学哲学以及其他通识内容，也会写一些日常，总之这是记录一个普通人类学习，思考和经历的地方'
 keywords: 投资，计算机，科学哲学，技术哲学
 author: XingHua 
-language: zh_CN
-timezone: ''
+language: zh-CN
+# timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -89,9 +89,9 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+## include:
+## exclude:
+## ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
