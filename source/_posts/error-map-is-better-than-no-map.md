@@ -1,5 +1,5 @@
 ---
-title: 一副错误的地图好过没有地图
+title: 一幅错误的地图好过没有地图
 og_title: error-map-is-better-than-no-map
 date: 2024-04-04 08:00:03
 category: 随笔
