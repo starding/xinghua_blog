@@ -41,7 +41,7 @@ tags: 认知与方法
 因此未曾就这件事深究过，不幸的是也没有人能点拨一下，一直到工作几年中遇到了更多的人和更多的事，眼界进一步开阔了之后才逐渐明白到其中的意味。
 
 **1/ 学习的启蒙点。**
-每个技能或者学科的学习路径上，都存在一个爬坡的临界点，我将其称之为一个真正的启蒙点，含义就等同于康德在《何为启蒙》一文中提到的启蒙。[^2](康德的这篇文章非常值得阅读，可参考：http://www.personpsy.org/uploadfiles/file/opentheeyes/culture/2020/什么是启蒙_康德.pdf)。
+每个技能或者学科的学习路径上，都存在一个爬坡的临界点，我将其称之为一个真正的启蒙点，含义就等同于康德在《何为启蒙》一文中提到的启蒙。[^1](康德的这篇文章非常值得阅读，可参考：http://www.personpsy.org/uploadfiles/file/opentheeyes/culture/2020/什么是启蒙_康德.pdf)。
 过了这个点，学生就走出了死亡之谷，可以自主利用他的理性去探索更广阔的被迷雾覆盖的地图了。
 而过不了这个点，一旦引导停止，就会在低水平上不断徘徊和重复，甚至向下滑落。
 
@@ -71,7 +71,7 @@ tags: 认知与方法
 
 
 ### 哥伦布与大航海时代的地图
-在大航海之前，欧洲的地图混合了科学、推测和神学元素。这些地图的范围仅限于欧洲、亚洲部分地区和非洲北海岸这些已知的世界，准确性差异很大，比如当时的制图家 Henricus Martellus Germanus 在 15 世纪末所绘制的世界地图 [^1](见维基百科词条：https://en.wikipedia.org/wiki/Henricus_Martellus_Germanus)：
+在大航海之前，欧洲的地图混合了科学、推测和神学元素。这些地图的范围仅限于欧洲、亚洲部分地区和非洲北海岸这些已知的世界，准确性差异很大，比如当时的制图家 Henricus Martellus Germanus 在 15 世纪末所绘制的世界地图 [^2](见维基百科词条：https://en.wikipedia.org/wiki/Henricus_Martellus_Germanus)：
 
 ![大航海时代前的地图](https://starding.github.io/picx-images-hosting/image.70a42t8r91.webp)
 
