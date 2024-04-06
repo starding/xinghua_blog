@@ -3,7 +3,9 @@ title: 一幅错误的地图好过没有地图
 og_title: error-map-is-better-than-no-map
 date: 2024-04-04 08:00:03
 category: 随笔
-tags: 认知与方法
+tags: 
+    - 认知方法 
+    - 可积累的
 ---
 
 昨天起床太早，加上中午团建吃饭没来得及午休，晚上十点不到就早早睡了。
