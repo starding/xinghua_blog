@@ -1,5 +1,6 @@
 ---
 title: Open Questions
+og_title: Open Questions
 date: 2016-01-10 22:59:11
 tags:
 ---

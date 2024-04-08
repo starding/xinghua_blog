@@ -1,5 +1,6 @@
 ---
 title: Python 中的闭包和装饰器
+og_title: Python 中的闭包和装饰器
 date: 2016-01-06 22:11:43
 category: 作为工程师
 ---

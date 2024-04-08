@@ -1,5 +1,6 @@
 ---
 title: 毕业一年
+og_title: 毕业一年
 date: 2016-07-29 16:26:03
 category: 随笔
 ---

@@ -1,5 +1,6 @@
 ---
 title: python 中的装饰器和迭代器
+og_title: python 中的装饰器和迭代器
 date: 2016-01-15 09:01:40
 category: 作为工程师
 ---

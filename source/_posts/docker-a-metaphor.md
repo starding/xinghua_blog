@@ -1,5 +1,6 @@
 ---
 title: Docker——从隐喻说起
+og_title: Docker——从隐喻说起
 date: 2016-01-07 01:28:10
 category: 作为工程师
 ---

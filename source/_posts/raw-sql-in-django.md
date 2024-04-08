@@ -1,5 +1,6 @@
 ---
 title: django 中使用原生 sql
+og_title: django 中使用原生 sql
 date: 2016-01-07 18:47:03
 tags:
 ---
