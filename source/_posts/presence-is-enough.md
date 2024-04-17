@@ -1,5 +1,5 @@
 ---
-title: [Memos]在场就足够了
+title: 在场就足够了[Memos]
 og_title: presence-is-enough
 date: 2024-04-17 22:08:57
 category: 好好生活
